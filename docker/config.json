@@ -1,0 +1,9 @@
+[
+  {
+    "nickname": "slackbot",
+    "server": "irc.deterlab.net",
+    "channelMapping": {
+      "#edgect": "#edgect"
+    }
+  }
+]
